@@ -15,4 +15,5 @@ https://davsav16.github.io/password-generator/
 Made with ❤ by David
 
 ## ScreenShot![Generator]
-(https://user-images.githubusercontent.com/77703087/113524065-714e6580-9569-11eb-861e-c56db6d78764.PNG)
+![Generator](https://user-images.githubusercontent.com/77703087/113524084-8dea9d80-9569-11eb-8bb9-f514e13be8fe.PNG)
+
